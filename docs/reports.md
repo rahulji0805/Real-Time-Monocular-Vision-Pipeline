@@ -3,10 +3,10 @@
 ## 1. Introduction
 
 ### 1.1 Objective
-Develop a real-time computer vision system demonstrating various image processing techniques.
+Developed a real-time computer vision system demonstrating various image processing techniques.
 
 ### 1.2 Technologies Used
-- Python 3.8
+- Python 3.11
 - OpenCV 4.8
 - NumPy 1.24
 
@@ -27,16 +27,12 @@ Strategy Pattern for modular processors
 - Noise reduction via Gaussian blur
 - Gradient calculation
 - Non-maximum suppression
-- Hysteresis thresholding
 
 ### 3.2 Motion Detection
 - Frame differencing technique
 - Background subtraction
 - Contour detection
 
-### 3.3 Histogram Equalization
-- Contrast enhancement
-- YCrCb color space conversion
 
 ## 4. Results
 
