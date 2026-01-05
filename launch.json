@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Vision Pipeline",
+      "type": "python",
+      "request": "launch",
+      "module": "src.vision_pipeline",
+      "pythonPath": "${workspaceFolder}/venv/Scripts/python.exe",
+      "console": "integratedTerminal"
+    }
+  ]
+}
