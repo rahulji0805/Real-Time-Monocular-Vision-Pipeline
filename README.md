@@ -105,9 +105,7 @@ python -m src.vision_pipeline
 - Computer Vision: Algorithms and Applications - Szeliski
 
 ## Author
-**Rahul Bhukal**
-Department of Electronics and Communication Engineering
-Deenbandhu Chhotu Ram University of Science and Technology
+**Rahul Bhukal**, Department of Electronics and Communication Engineering, Deenbandhu Chhotu Ram University of Science and Technology
 
 ## License
 
