@@ -53,11 +53,10 @@ pipeline.run()
 - ✅ Interactive controls
 
 ### Image Processing Techniques
-1. **Grayscale Conversion** - Color space transformation
-2. **Gaussian Blur** - Noise reduction using convolution
-3. **Edge Detection** - Canny algorithm implementation
-4. **Motion Detection** - Frame differencing
-5. **Histogram Equalization** - Contrast enhancement
+1. **Gaussian Blur** - Noise reduction using convolution
+2. **Edge Detection** - Canny algorithm implementation
+3. **Motion Detection** - Frame differencing
+
 
 ## Keyboard Controls
 
@@ -71,12 +70,13 @@ pipeline.run()
 | `s` | Save current frame |
 
 ## Architecture
+```Text
 VisionPipeline
 ├── Camera Manager (Capture)
 ├── Processor Chain (Sequential processing)
 ├── Display Manager (Visualization)
 └── FPS Counter (Performance monitoring)
-
+```
 ## Key Concepts Demonstrated
 
 1. **Object-Oriented Programming**: Abstract base classes, inheritance
@@ -104,9 +104,9 @@ It should be run in the terminal only.
 
 ## Author
 
-Rahul Bhukal 
-Department of Electronics and Communication Engineering 
-Deenbandhu Chhotu Ram University of Science and Technology
+**Rahul Bhukal**
+**Department of Electronics and Communication Engineering**
+**Deenbandhu Chhotu Ram University of Science and Technology**
 
 ## License
 
@@ -122,10 +122,11 @@ monocular-vision-pipeline/
 ├── .gitignore
 ├── src/
 │   ├── vision_pipeline.py      # Main pipeline class
-│   ├── processors.py 
-|    ├──__main__.py          # Image processing modules
+│   ├── processors.py           # processors used
+|   ├──__main__.py          
 │   └── utils.py                # Helper functions
 ├── docs/
 │   ├── report.md              # Project report/documentation
 │   └── screenshots/           # Results screenshots
 └── output/                    # Saved videos/images
+```
