@@ -104,10 +104,10 @@ python -m src.vision_pipeline
 - Digital Image Processing - Gonzalez & Woods
 - Computer Vision: Algorithms and Applications - Szeliski
 
-## 👤Author
+## Author
 **Rahul Bhukal**
-**Department of Electronics and Communication Engineering**
-**Deenbandhu Chhotu Ram University of Science and Technology**
+Department of Electronics and Communication Engineering
+Deenbandhu Chhotu Ram University of Science and Technology
 
 ## License
 
