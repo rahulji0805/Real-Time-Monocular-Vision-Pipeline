@@ -87,7 +87,9 @@ VisionPipeline
 
 ## Code to run the Program:
 It should be run in the terminal only.
-""python -m src.vision_pipeline""
+```bash
+python -m src.vision_pipeline
+```
 
 ## Future Enhancements
 
@@ -102,8 +104,7 @@ It should be run in the terminal only.
 - Digital Image Processing - Gonzalez & Woods
 - Computer Vision: Algorithms and Applications - Szeliski
 
-## Author
-
+## 👤Author
 **Rahul Bhukal**
 **Department of Electronics and Communication Engineering**
 **Deenbandhu Chhotu Ram University of Science and Technology**
